@@ -27,12 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com//>
+<img src='https://github.com/Dmars98/InstagramClone/blob/master/MNML-September13-115746AM_AdobeExpress(2).gif'>
 
-
-## Notes
-
-It was very Simple!
 
 ## Open-source libraries used
 
