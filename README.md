@@ -1,8 +1,8 @@
 # Project 3 - *InstagramClone*
 
-**InstagramClone** is a photo sharing app similar to Instagram but using Parse as its backend.
+**InstagramClone** is a app similar to Instagram for showing picture but using Parse as its backend.
 
-Time spent: **8** hours spent in total
+Time spent: **36** hours spent in total
 
 ## User Stories
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/nanijay7/InstagramClone_App/blob/master/Instagramclone.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com//>
 
 
 ## Notes
